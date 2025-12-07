@@ -62,4 +62,3 @@ Through this analysis, we discovered several critical biological patterns:
     jupyter notebook haggis_analysis.ipynb
     ```
 
-## 📂 Project Structure
