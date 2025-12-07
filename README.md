@@ -64,7 +64,7 @@ Through this analysis, we discovered several critical biological patterns:
 
 ## 📂 Project Structure
 
-
+```
 project_root/
 │
 ├─ haggis-analysis.ipynb # Main analysis notebook
